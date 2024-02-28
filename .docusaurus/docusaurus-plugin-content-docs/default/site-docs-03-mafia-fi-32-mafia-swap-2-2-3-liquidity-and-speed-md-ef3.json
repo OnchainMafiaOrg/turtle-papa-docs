@@ -1,0 +1,23 @@
+{
+  "id": "Mafia-Fi/Mafia Swap/2.2.3-Liquidity and Speed",
+  "title": "Liquidity & Speed 🚀",
+  "description": "Prioritizing Efficiency in Every Swap",
+  "source": "@site/docs/03-Mafia-Fi/32-Mafia Swap/2.2.3-Liquidity and Speed.md",
+  "sourceDirName": "03-Mafia-Fi/32-Mafia Swap",
+  "slug": "/Mafia-Fi/Mafia Swap/2.2.3-Liquidity and Speed",
+  "permalink": "/docs/Mafia-Fi/Mafia Swap/2.2.3-Liquidity and Speed",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Simplifying the Trading Experience 🔄",
+    "permalink": "/docs/Mafia-Fi/Mafia Swap/2.2.2-Simplifying the Trading"
+  },
+  "next": {
+    "title": "Security and Trust 🔒",
+    "permalink": "/docs/Mafia-Fi/Mafia Swap/2.2.4-Security and Trust"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Introduction",
+  "title": "Introduction 🌟",
+  "description": "🐢👴 Once upon a time, in the serene depths of a tranquil sewer beneath the bustling city, lived a wise and gentle creature known as Turtle Papa. He wasn't just any turtle; Turtle Papa was the epitome of wisdom, strength, and compassion. As the proud guardian of four remarkable turtles - Leonard, Raph, Donnie, and Mikey - Turtle Papa embarked on a journey unlike any other, instilling in his sons the values of courage, unity, and resilience.",
+  "source": "@site/docs/01-Introduction.md",
+  "sourceDirName": ".",
+  "slug": "/Introduction",
+  "permalink": "/docs/Introduction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "next": {
+    "title": "$TUPA Tokenomics 💰",
+    "permalink": "/docs/$TUPA Token"
+  }
+}

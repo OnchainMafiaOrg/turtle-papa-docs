@@ -1,0 +1,23 @@
+{
+  "id": "3.5.1-Lending and Borrowing",
+  "title": "Lending and Borrowing 💼",
+  "description": "Transform Your Crypto Experience",
+  "source": "@site/docs/3.5.1-Lending and Borrowing.md",
+  "sourceDirName": ".",
+  "slug": "/3.5.1-Lending and Borrowing",
+  "permalink": "/docs/3.5.1-Lending and Borrowing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Key Features of $TUPA 🔑",
+    "permalink": "/docs/Key Features"
+  },
+  "next": {
+    "title": "Growth Strategy 🌱",
+    "permalink": "/docs/Growth Strategy"
+  }
+}

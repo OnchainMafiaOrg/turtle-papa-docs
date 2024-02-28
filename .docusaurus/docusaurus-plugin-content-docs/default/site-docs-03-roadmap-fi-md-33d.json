@@ -1,0 +1,24 @@
+{
+  "id": "Roadmap-Fi",
+  "title": "Roadmap-Fi",
+  "description": "🛍️ HOW TO BUY $TUPA TOKENS:",
+  "source": "@site/docs/03-Roadmap-Fi.md",
+  "sourceDirName": ".",
+  "slug": "/Roadmap-Fi",
+  "permalink": "/docs/Roadmap-Fi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Lending and Borrowing 💼",
+    "permalink": "/docs/Mafia-Fi/Loans/3.5.1-Lending and Borrowing"
+  },
+  "next": {
+    "title": "Governance and Utility 🏛️",
+    "permalink": "/docs/Governance and Utility"
+  }
+}

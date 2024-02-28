@@ -1,0 +1,23 @@
+{
+  "id": "Mafia-Fi/Mafia Swap/2.2.1-Multi-Chain Swap",
+  "title": "Multi-Chain Swap 🔄",
+  "description": "Shaping the MemeVerse Trading Experience",
+  "source": "@site/docs/03-Mafia-Fi/32-Mafia Swap/2.2.1-Multi-Chain Swap.md",
+  "sourceDirName": "03-Mafia-Fi/32-Mafia Swap",
+  "slug": "/Mafia-Fi/Mafia Swap/2.2.1-Multi-Chain Swap",
+  "permalink": "/docs/Mafia-Fi/Mafia Swap/2.2.1-Multi-Chain Swap",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "How T0 Buy $TUPA Tokens 🛍️",
+    "permalink": "/docs/How to buy $TUPA"
+  },
+  "next": {
+    "title": "Simplifying the Trading Experience 🔄",
+    "permalink": "/docs/Mafia-Fi/Mafia Swap/2.2.2-Simplifying the Trading"
+  }
+}

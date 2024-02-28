@@ -1,0 +1,24 @@
+{
+  "id": "Key Features",
+  "title": "Key Features of $TUPA 🔑",
+  "description": "🌱 Staking: Within the Turtle Papa ecosystem, users can actively participate in staking activities, enabling them to lock up their $TUPA tokens and contribute to the network's security and stability. By staking, users are rewarded with additional tokens, encouraging long-term participation and commitment to the project. Additionally, coming soon, through collaboration with MEME MAFIA, users staking $TUPA will have the opportunity to earn $MEM tokens.",
+  "source": "@site/docs/04-Key Features.md",
+  "sourceDirName": ".",
+  "slug": "/Key Features",
+  "permalink": "/docs/Key Features",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "How To Buy $TUPA Tokens 🛍️",
+    "permalink": "/docs/How to buy $TUPA"
+  },
+  "next": {
+    "title": "Roadmap 🗺️",
+    "permalink": "/docs/Roadmap"
+  }
+}

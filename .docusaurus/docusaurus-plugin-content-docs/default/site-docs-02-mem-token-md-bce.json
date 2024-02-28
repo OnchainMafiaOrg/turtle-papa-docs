@@ -1,0 +1,24 @@
+{
+  "id": "$MEM Token",
+  "title": "$MEM Token 💎",
+  "description": "Deflationary Mechanisms: Transaction Fee and Burn Function 🔥",
+  "source": "@site/docs/02-$MEM Token.md",
+  "sourceDirName": ".",
+  "slug": "/$MEM Token",
+  "permalink": "/docs/$MEM Token",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Introduction 🌟",
+    "permalink": "/docs/Introduction"
+  },
+  "next": {
+    "title": "What is Mafia-Fi 🚀",
+    "permalink": "/docs/Mafia-Fi/What is Mafia-Fi"
+  }
+}

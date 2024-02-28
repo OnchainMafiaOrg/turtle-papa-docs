@@ -1,0 +1,23 @@
+{
+  "id": "Mafia-Fi/Mafia Swap/2.2.4-Security and Trust",
+  "title": "Security and Trust 🔒",
+  "description": "Our Commitment to Your Peace of Mind",
+  "source": "@site/docs/03-Mafia-Fi/32-Mafia Swap/2.2.4-Security and Trust.md",
+  "sourceDirName": "03-Mafia-Fi/32-Mafia Swap",
+  "slug": "/Mafia-Fi/Mafia Swap/2.2.4-Security and Trust",
+  "permalink": "/docs/Mafia-Fi/Mafia Swap/2.2.4-Security and Trust",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Liquidity & Speed 🚀",
+    "permalink": "/docs/Mafia-Fi/Mafia Swap/2.2.3-Liquidity and Speed"
+  },
+  "next": {
+    "title": "Future Vision 🌟",
+    "permalink": "/docs/Mafia-Fi/Mafia Swap/2.2.5-Future Vision"
+  }
+}

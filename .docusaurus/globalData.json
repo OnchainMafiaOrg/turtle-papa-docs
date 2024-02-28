@@ -1,0 +1,58 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Introduction",
+          "docs": [
+            {
+              "id": "$TUPA Token",
+              "path": "/docs/$TUPA Token",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "Growth Strategy",
+              "path": "/docs/Growth Strategy",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "How to buy $TUPA",
+              "path": "/docs/How to buy $TUPA",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "Introduction",
+              "path": "/docs/Introduction",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "Key Features",
+              "path": "/docs/Key Features",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "Roadmap",
+              "path": "/docs/Roadmap",
+              "sidebar": "docsSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docsSidebar": {
+              "link": {
+                "path": "/docs/Introduction",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

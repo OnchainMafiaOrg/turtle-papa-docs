@@ -1,0 +1,94 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "docsSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction 🌟",
+        "href": "/docs/Introduction",
+        "docId": "Introduction",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "$TUPA Tokenomics 💰",
+        "href": "/docs/$TUPA Token",
+        "docId": "$TUPA Token",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "How To Buy $TUPA Tokens 🛍️",
+        "href": "/docs/How to buy $TUPA",
+        "docId": "How to buy $TUPA",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Key Features of $TUPA 🔑",
+        "href": "/docs/Key Features",
+        "docId": "Key Features",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Roadmap 🗺️",
+        "href": "/docs/Roadmap",
+        "docId": "Roadmap",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Growth Strategy 🌱",
+        "href": "/docs/Growth Strategy",
+        "docId": "Growth Strategy",
+        "unlisted": false
+      }
+    ]
+  },
+  "docs": {
+    "$TUPA Token": {
+      "id": "$TUPA Token",
+      "title": "$TUPA Tokenomics 💰",
+      "description": "🌐 Total Supply: 1,000,000,000 $TUPA",
+      "sidebar": "docsSidebar"
+    },
+    "Growth Strategy": {
+      "id": "Growth Strategy",
+      "title": "Growth Strategy 🌱",
+      "description": "Our journey towards growth and sustainability is underpinned by comprehensive strategies that not only aim to expand the $TUPA ecosystem but also to ensure its long-term viability and success.",
+      "sidebar": "docsSidebar"
+    },
+    "How to buy $TUPA": {
+      "id": "How to buy $TUPA",
+      "title": "How To Buy $TUPA Tokens 🛍️",
+      "description": "📱 Set Up a Solana Wallet: Users must set up a Solana-compatible wallet, such as Sollet, Phantom, or Solflare, to securely store $TUPA tokens.",
+      "sidebar": "docsSidebar"
+    },
+    "Introduction": {
+      "id": "Introduction",
+      "title": "Introduction 🌟",
+      "description": "🐢👴 Once upon a time, in the serene depths of a tranquil sewer beneath the bustling city, lived a wise and gentle creature known as Turtle Papa. He wasn't just any turtle; Turtle Papa was the epitome of wisdom, strength, and compassion. As the proud guardian of four remarkable turtles - Leonard, Raph, Donnie, and Mikey - Turtle Papa embarked on a journey unlike any other, instilling in his sons the values of courage, unity, and resilience.",
+      "sidebar": "docsSidebar"
+    },
+    "Key Features": {
+      "id": "Key Features",
+      "title": "Key Features of $TUPA 🔑",
+      "description": "🌱 Staking: Within the Turtle Papa ecosystem, users can actively participate in staking activities, enabling them to lock up their $TUPA tokens and contribute to the network's security and stability. By staking, users are rewarded with additional tokens, encouraging long-term participation and commitment to the project. Additionally, coming soon, through collaboration with MEME MAFIA, users staking $TUPA will have the opportunity to earn $MEM tokens.",
+      "sidebar": "docsSidebar"
+    },
+    "Roadmap": {
+      "id": "Roadmap",
+      "title": "Roadmap 🗺️",
+      "description": "📅 Q1 2024 - Launch Phase:",
+      "sidebar": "docsSidebar"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Mafia-Fi/Staking/3.3.1-Cross-Token Staking",
+  "title": "Cross-Token Staking 🔄",
+  "description": "Elevating Staking in the MEME Mafia Ecosystem",
+  "source": "@site/docs/03-Mafia-Fi/33-Staking/3.3.1-Cross-Token Staking.md",
+  "sourceDirName": "03-Mafia-Fi/33-Staking",
+  "slug": "/Mafia-Fi/Staking/3.3.1-Cross-Token Staking",
+  "permalink": "/docs/Mafia-Fi/Staking/3.3.1-Cross-Token Staking",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "How To Buy $TUPA Tokens 🛍️",
+    "permalink": "/docs/How to buy $TUPA"
+  },
+  "next": {
+    "title": "Automated Market Maker (AMM) Integration 🔄",
+    "permalink": "/docs/Mafia-Fi/Liquidity Mining/3.4.1-Cross-Token Staking"
+  }
+}

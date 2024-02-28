@@ -1,0 +1,23 @@
+{
+  "id": "Mafia-Fi/Mafia Swap/2.2.5-Future Vision",
+  "title": "Future Vision 🌟",
+  "description": "Charting the Course for the MemeVerse",
+  "source": "@site/docs/03-Mafia-Fi/32-Mafia Swap/2.2.5-Future Vision.md",
+  "sourceDirName": "03-Mafia-Fi/32-Mafia Swap",
+  "slug": "/Mafia-Fi/Mafia Swap/2.2.5-Future Vision",
+  "permalink": "/docs/Mafia-Fi/Mafia Swap/2.2.5-Future Vision",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Security and Trust 🔒",
+    "permalink": "/docs/Mafia-Fi/Mafia Swap/2.2.4-Security and Trust"
+  },
+  "next": {
+    "title": "Cross-Token Staking 🔄",
+    "permalink": "/docs/Mafia-Fi/Staking/3.3.1-Cross-Token Staking"
+  }
+}

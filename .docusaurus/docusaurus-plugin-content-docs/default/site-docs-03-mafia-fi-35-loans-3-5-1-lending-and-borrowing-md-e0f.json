@@ -1,0 +1,23 @@
+{
+  "id": "Mafia-Fi/Loans/3.5.1-Lending and Borrowing",
+  "title": "Lending and Borrowing 💼",
+  "description": "Transform Your Crypto Experience",
+  "source": "@site/docs/03-Mafia-Fi/35-Loans/3.5.1-Lending and Borrowing.md",
+  "sourceDirName": "03-Mafia-Fi/35-Loans",
+  "slug": "/Mafia-Fi/Loans/3.5.1-Lending and Borrowing",
+  "permalink": "/docs/Mafia-Fi/Loans/3.5.1-Lending and Borrowing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Automated Market Maker (AMM) Integration 🔄",
+    "permalink": "/docs/Mafia-Fi/Liquidity Mining/3.4.1-Cross-Token Staking"
+  },
+  "next": {
+    "title": "Key Features of $TUPA 🔑",
+    "permalink": "/docs/Key Features"
+  }
+}

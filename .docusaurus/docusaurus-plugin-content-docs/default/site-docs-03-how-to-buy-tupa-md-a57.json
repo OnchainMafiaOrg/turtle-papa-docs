@@ -1,0 +1,24 @@
+{
+  "id": "How to buy $TUPA",
+  "title": "How To Buy $TUPA Tokens 🛍️",
+  "description": "📱 Set Up a Solana Wallet: Users must set up a Solana-compatible wallet, such as Sollet, Phantom, or Solflare, to securely store $TUPA tokens.",
+  "source": "@site/docs/03-How to buy $TUPA.md",
+  "sourceDirName": ".",
+  "slug": "/How to buy $TUPA",
+  "permalink": "/docs/How to buy $TUPA",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "$TUPA Tokenomics 💰",
+    "permalink": "/docs/$TUPA Token"
+  },
+  "next": {
+    "title": "Key Features of $TUPA 🔑",
+    "permalink": "/docs/Key Features"
+  }
+}

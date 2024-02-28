@@ -1,0 +1,23 @@
+{
+  "id": "Growth Strategy",
+  "title": "Growth Strategy 🌱",
+  "description": "Our journey towards growth and sustainability is underpinned by comprehensive strategies that not only aim to expand the $TUPA ecosystem but also to ensure its long-term viability and success.",
+  "source": "@site/docs/Growth Strategy.md",
+  "sourceDirName": ".",
+  "slug": "/Growth Strategy",
+  "permalink": "/docs/Growth Strategy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Roadmap 🗺️",
+    "permalink": "/docs/Roadmap"
+  },
+  "next": {
+    "title": "Security Measures 🔐",
+    "permalink": "/docs/security-practices"
+  }
+}

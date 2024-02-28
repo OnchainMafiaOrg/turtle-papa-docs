@@ -1,0 +1,23 @@
+{
+  "id": "Mafia-Fi/Liquidity Mining/3.4.1-Cross-Token Staking",
+  "title": "Automated Market Maker (AMM) Integration 🔄",
+  "description": "Enhancing Liquidity with $MEM Rewards",
+  "source": "@site/docs/03-Mafia-Fi/34-Liquidity Mining/3.4.1-Cross-Token Staking.md",
+  "sourceDirName": "03-Mafia-Fi/34-Liquidity Mining",
+  "slug": "/Mafia-Fi/Liquidity Mining/3.4.1-Cross-Token Staking",
+  "permalink": "/docs/Mafia-Fi/Liquidity Mining/3.4.1-Cross-Token Staking",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Cross-Token Staking 🔄",
+    "permalink": "/docs/Mafia-Fi/Staking/3.3.1-Cross-Token Staking"
+  },
+  "next": {
+    "title": "Key Features of $TUPA 🔑",
+    "permalink": "/docs/Key Features"
+  }
+}

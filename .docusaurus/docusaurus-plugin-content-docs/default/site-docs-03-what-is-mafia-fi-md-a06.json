@@ -1,0 +1,24 @@
+{
+  "id": "What is Mafia-Fi",
+  "title": "🛍️ How to Buy $TUPA Tokens:",
+  "description": "Set Up a Solana Wallet: 📱 Users must set up a Solana-compatible wallet, such as Sollet, Phantom, or Solflare, to securely store $TUPA tokens.",
+  "source": "@site/docs/03-What is Mafia-Fi.md",
+  "sourceDirName": ".",
+  "slug": "/What is Mafia-Fi",
+  "permalink": "/docs/What is Mafia-Fi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Lending and Borrowing 💼",
+    "permalink": "/docs/Mafia-Fi/Loans/3.5.1-Lending and Borrowing"
+  },
+  "next": {
+    "title": "Governance and Utility 🏛️",
+    "permalink": "/docs/Governance and Utility"
+  }
+}

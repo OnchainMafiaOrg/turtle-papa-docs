@@ -1,0 +1,23 @@
+{
+  "id": "Governance and Utility",
+  "title": "Key Features of TUPA 🔑",
+  "description": "🌱 Staking: Within the Turtle Papa ecosystem, users can actively participate in staking activities, enabling them to lock up their $TUPA tokens and contribute to the network's security and stability. By staking, users are rewarded with additional tokens, encouraging long-term participation and commitment to the project.",
+  "source": "@site/docs/Governance and Utility.md",
+  "sourceDirName": ".",
+  "slug": "/Governance and Utility",
+  "permalink": "/docs/Governance and Utility",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Lending and Borrowing 💼",
+    "permalink": "/docs/Mafia-Fi/Loans/3.5.1-Lending and Borrowing"
+  },
+  "next": {
+    "title": "Growth Strategy 🌱",
+    "permalink": "/docs/Growth Strategy"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Community Rewards/Rewards Boosters",
+  "title": "Rewards Boosters 🚀",
+  "description": "Enhanced Staking Rewards at Meme Mafia 🌟",
+  "source": "@site/docs/07-Community Rewards/Rewards Boosters.md",
+  "sourceDirName": "07-Community Rewards",
+  "slug": "/Community Rewards/Rewards Boosters",
+  "permalink": "/docs/Community Rewards/Rewards Boosters",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Community Incentives 🌟",
+    "permalink": "/docs/Community Rewards/Community Incentives"
+  },
+  "next": {
+    "title": "Governance and Utility 🏛️",
+    "permalink": "/docs/Governance and Utility"
+  }
+}

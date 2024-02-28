@@ -1,0 +1,19 @@
+{
+  "id": "security-practices",
+  "title": "Security Measures 🔐",
+  "description": "Ensuring the security and integrity of our ecosystem is paramount at Meme Mafia. Our comprehensive security measures are designed to protect our community and maintain trust across all interactions within the ecosystem.",
+  "source": "@site/docs/security-practices.md",
+  "sourceDirName": ".",
+  "slug": "/security-practices",
+  "permalink": "/docs/security-practices",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Growth Strategy 🌱",
+    "permalink": "/docs/Growth Strategy"
+  }
+}

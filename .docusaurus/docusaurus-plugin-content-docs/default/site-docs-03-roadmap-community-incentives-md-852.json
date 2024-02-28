@@ -1,0 +1,23 @@
+{
+  "id": "Roadmap/Community Incentives",
+  "title": "Community Incentives 🌟",
+  "description": "Rewarding Your Engagement and Creativity",
+  "source": "@site/docs/03-Roadmap/Community Incentives.md",
+  "sourceDirName": "03-Roadmap",
+  "slug": "/Roadmap/Community Incentives",
+  "permalink": "/docs/Roadmap/Community Incentives",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Lending and Borrowing 💼",
+    "permalink": "/docs/Mafia-Fi/Loans/3.5.1-Lending and Borrowing"
+  },
+  "next": {
+    "title": "Rewards Boosters 🚀",
+    "permalink": "/docs/Roadmap/Rewards Boosters"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Mafia-Fi/Mafia Swap/2.2.2-Simplifying the Trading",
+  "title": "Simplifying the Trading Experience 🔄",
+  "description": "At the heart of our platform lies a commitment to user-friendliness and accessibility. Designed with our vibrant community in mind, we've streamlined the trading process to ensure that everyone, from seasoned traders to meme enthusiasts, can easily engage with our platform.",
+  "source": "@site/docs/03-Mafia-Fi/32-Mafia Swap/2.2.2-Simplifying the Trading.md",
+  "sourceDirName": "03-Mafia-Fi/32-Mafia Swap",
+  "slug": "/Mafia-Fi/Mafia Swap/2.2.2-Simplifying the Trading",
+  "permalink": "/docs/Mafia-Fi/Mafia Swap/2.2.2-Simplifying the Trading",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Multi-Chain Swap 🔄",
+    "permalink": "/docs/Mafia-Fi/Mafia Swap/2.2.1-Multi-Chain Swap"
+  },
+  "next": {
+    "title": "Liquidity & Speed 🚀",
+    "permalink": "/docs/Mafia-Fi/Mafia Swap/2.2.3-Liquidity and Speed"
+  }
+}
